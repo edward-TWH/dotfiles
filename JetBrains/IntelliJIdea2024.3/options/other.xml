@@ -1,0 +1,74 @@
+<application>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+    <option name="uiLibraryChangedByUser" value="false" />
+  </component>
+  <component name="FileEditorProviderManager"><![CDATA[{}]]></component>
+  <component name="HyperskillSettings">
+    <option name="updateAutomatically" value="true" />
+    <HyperskillAccount>
+      <option name="tokenExpiresIn" value="1736792422" />
+      <option name="email" value="hyperskill.attendee093@passmail.net" />
+      <option name="fullname" value="User 618839747" />
+      <option name="guest" value="false" />
+      <option name="hyperskillProjectId" value="133" />
+      <option name="id" value="618839747" />
+    </HyperskillAccount>
+  </component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "GradleSupport.showInternalTestNodes": "false",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "MarketplacePluginsSearchHistory": "dracula\ndrav\nvim\nvi\nv",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "ai.promo.window.was.actually.shown": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "consoleView",
+    "com.jetbrains.edu.LAST_UPDATE": "1736756434971",
+    "defaultJdkConfigured": "true",
+    "evlsprt3.243": "3",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.22562.218",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.extract.method.gotit.navigate": "1",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ide.updates.old.dirs.scan.scheduled": "1737361239109",
+    "ideavim.statistics.timestamp": "1736756901741",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "243.22562.218-IJ",
+    "llm.installer.activate.toolwindow.delayed": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dracula Colorful",
+    "registry.to.advanced.settings.migration.build": "IU-243.22562.218",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

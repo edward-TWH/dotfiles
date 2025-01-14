@@ -1,0 +1,93 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+    <option name="uiLibraryChangedByUser" value="false" />
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "InstalledPluginsSearchHistory": "/tag:Freemium",
+    "KEYMAP": "copy",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "MarketplacePluginsSearchHistory": "bracket\nbra\nindent\ni\ndracula",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "RunOnceActivity.pycharm.endpoints.tab.on.search.everywhere.enabled": "true",
+    "SettingsSearchHistory": "plugin\nindent",
+    "ai.promo.window.was.actually.shown": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "com.jetbrains.edu.LAST_UPDATE": "1736490539397",
+    "evlsprt3.243": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.22562.220",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "4",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ide.memory.adjusted": "true",
+    "ide.updates.old.dirs.scan.scheduled": "1737099445692",
+    "ideavim.statistics.timestamp": "1736490647754",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/edward/Downloads/https___www.nature.com_articles_s41586-020-3026-x_files",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dracula Colorful",
+    "python.new.interpreter.fav.manager": "VIRTUALENV",
+    "python.new.interpreter.fav.method": "CREATE_NEW",
+    "python.new.interpreter.fav.mode": "PROJECT_VENV",
+    "registry.to.advanced.settings.migration.build": "PY-243.22562.220",
+    "tab_selection_count": "5",
+    "ts.lib.d.ts.version": "5.4.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/edward/Downloads/https___www.nature.com_articles_s41586-020-3026-x_files",
+      "/home/edward/PycharmProjects/Web Scraper",
+      "/home/edward/.local/qtile/qtile-venv/bin/pip3.13",
+      "/home/edward/.config/qtile"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

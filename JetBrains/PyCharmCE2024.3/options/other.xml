@@ -1,0 +1,80 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="EduSettings">
+    <option name="javaUiLibrary" value="JCEF" />
+    <option name="uiLibraryChangedByUser" value="false" />
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Educational.recentCoursesFilled": "true",
+    "Educational.stepikOAuthReset": "true",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "KEYMAP": "copy",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "MarketplacePluginsSearchHistory": "dracula\nda\nd\nlint\npe",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "SettingsSearchHistory": "indent",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "com.jetbrains.edu.LAST_UPDATE": "1736490539397",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.22562.220",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "3",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1736490647754",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/edward/Downloads/https___www.nature.com_articles_s41586-020-3026-x_files",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dracula Colorful",
+    "python.new.interpreter.fav.manager": "VIRTUALENV",
+    "python.new.interpreter.fav.method": "CREATE_NEW",
+    "python.new.interpreter.fav.mode": "PROJECT_VENV",
+    "registry.to.advanced.settings.migration.build": "PC-243.22562.220",
+    "tab_selection_count": "5"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/edward/Downloads/https___www.nature.com_articles_s41586-020-3026-x_files",
+      "/home/edward/PycharmProjects/Web Scraper",
+      "/home/edward/.local/qtile/qtile-venv/bin/pip3.13",
+      "/home/edward/.config/qtile"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

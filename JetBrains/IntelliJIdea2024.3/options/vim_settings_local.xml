@@ -1,0 +1,138 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">cQ==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="Cinema Room Manager-c86b482c">
+      <jump line="9" column="48" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="8" column="31" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="17" column="7" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="20" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="26" column="40" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.cs" protocol="file" />
+      <jump line="8" column="21" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/Calculate the profit/task-info.yaml" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="33" column="12" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="5" column="8" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="4" column="45" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="38" column="8" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="35" column="39" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="27" column="37" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test" protocol="file" />
+      <jump line="2" column="18" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="6" column="50" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="8" column="36" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="15" column="8" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="30" column="45" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="34" column="50" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="16" column="46" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" protocol="file" />
+      <jump line="37" column="55" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="32" column="60" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="31" column="14" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="12" column="39" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="5" column="40" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+      <jump line="48" column="15" filename="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/Calculate the profit/task-info.yaml" timestamp="1736761570458">
+        <mark key="&quot;" line="13" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/Cinema.java" timestamp="1736785041887">
+        <mark key="&quot;" line="24" column="12" />
+        <mark key="[" line="51" column="32" />
+        <mark key="l" line="11" column="7" />
+        <mark key="]" line="51" column="38" />
+        <mark key="." line="51" column="37" />
+        <mark key="^" line="51" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.cs" timestamp="1736758934860">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test" timestamp="1736759760230">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Cinema Room Manager/Cinema Room Manager/task/src/cinema/test.java" timestamp="1736760112110">
+        <mark key="&quot;" line="16" column="46" />
+        <mark key="'" line="8" column="50" />
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="47" />
+        <mark key="^" line="16" column="47" />
+        <mark key="." line="16" column="46" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Cinema Room Manager/build.gradle" timestamp="1736760119474">
+        <mark key="&quot;" line="31" column="57" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">Y29sdW1u</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">Y29sdW1u</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">bnVtYmVy</text>
+      </register>
+      <register name="0" type="CHARACTER_WISE">
+        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKDYzLzIpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5jZWlsKChkb3VibGUpNjMvMikpOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oTWF0aC5mbG9vcigoZG91YmxlKTYzLzIpKTs=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBpbnQgY29sdW1uOwo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIHVibGljIAo=</text>
+      </register>
+      <register name="5" type="CHARACTER_WISE">
+        <text encoding="base64">cHVibGljIHNldFNlYXQoKSB7CiAgICAgICAgdGhpcy5TRUFUUy5hZGQobmV3IEFycmF5TGlzdDw+KCkpOwogICAgfQogICAgcA==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="CHARACTER_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaXZhdGUgQXJyYXlMaXN0PENoYXJhY3Rlcj4gU0VBVFMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaXZhdGUgY2hhcltdIFtdIHNlYXRzQXJyYXkgPSBuZXcgY2hhcltdIFtdOwo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">cQ==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

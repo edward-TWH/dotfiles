@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.config/qtile" value="true" />
+        <entry key="$USER_HOME$/Downloads/https___www.nature.com_articles_s41586-020-3026-x_files" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/PythonProject" value="true" />
+        <entry key="$USER_HOME$/PycharmProjects/Web Scraper" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

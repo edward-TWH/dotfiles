@@ -1,0 +1,14 @@
+{
+  "ale": { "branch": "master", "commit": "6c337ad19ca32fcb11ff7f29a8e68598763b59a2" },
+  "fzf-lua": { "branch": "main", "commit": "8efb28fd24e9d55694460d0ac8fa147d7276d984" },
+  "indent-blankline.nvim": { "branch": "master", "commit": "259357fa4097e232730341fa60988087d189193a" },
+  "lazy.nvim": { "branch": "main", "commit": "d8f26efd456190241afd1b0f5235fe6fdba13d4a" },
+  "lualine.nvim": { "branch": "master", "commit": "2a5bae925481f999263d6f5ed8361baef8df4f83" },
+  "modus-themes.nvim": { "branch": "master", "commit": "9f0343bcb3be4dd5545624db135f2b1c369e7ce4" },
+  "nvim-treesitter": { "branch": "master", "commit": "097fb77312c731347180e8907424f6c967323f05" },
+  "nvim-treesitter-context": { "branch": "master", "commit": "d0dd7ce5a9d0be1f28086e818e52fdc5c78975df" },
+  "nvim-web-devicons": { "branch": "master", "commit": "aafa5c187a15701a7299a392b907ec15d9a7075f" },
+  "vim-closer": { "branch": "master", "commit": "6007d9db0a35e983af246b667282606612076b07" },
+  "vim-endwise": { "branch": "master", "commit": "5ec72eef1a07fb32af9be5402144678f68cb1a7a" },
+  "yuck.vim": { "branch": "master", "commit": "9b5e0370f70cc30383e1dabd6c215475915fe5c3" }
+}

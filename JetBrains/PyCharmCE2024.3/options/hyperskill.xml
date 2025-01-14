@@ -1,0 +1,11 @@
+<application>
+  <component name="HyperskillMetrics">
+    <events>
+      <HyperskillFrontendEvent>
+        <option name="clientTime" value="1736490540303" />
+        <option name="action" value="view" />
+        <option name="route" value="/projects/145/stages/785/implement" />
+      </HyperskillFrontendEvent>
+    </events>
+  </component>
+</application>

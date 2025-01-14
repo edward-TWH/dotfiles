@@ -1,0 +1,23 @@
+2024-12-25 08:50:47.014 [info] Started local extension host with pid 30050.
+2024-12-25 08:50:47.132 [info] Started initializing default profile extensions in extensions installation folder. file:///home/edward/.vscode-oss/extensions
+2024-12-25 08:50:47.367 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/edward/.vscode-oss/extensions
+2024-12-25 08:50:50.286 [info] [perf] Render performance baseline is 54ms
+2024-12-25 08:50:52.994 [error] Timed out waiting for authentication provider to register
+2024-12-25 08:50:54.294 [error] [network] #1: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:50:57.967 [error] [network] #2: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:51:01.392 [error] [network] #4: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:51:18.414 [error] [network] #9: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:51:20.729 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, testObserver, quickPickItemTooltip, terminalDataWriteEvent, terminalExecuteCommandEvent, codeActionAI, notebookReplDocument, notebookVariableProvider'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-12-25 08:51:20.729 [error] Extension 'ms-python.debugpy CANNOT USE these API proposals 'portsAttributes, debugVisualization, contribViewsWelcome'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2024-12-25 08:51:20.745 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-12-25 08:51:29.325 [error] [network] #17: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:52:25.881 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2024-12-25 08:58:01.112 [error] [network] #24: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:58:13.296 [error] [network] #31: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:58:15.226 [error] [network] #33: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:58:16.805 [error] [network] #35: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:58:17.490 [error] ENOENT: no such file or directory, open '/home/edward/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/edward/.config/Code - OSS/User/globalStorage/vscodevim.vim/.registers'
+2024-12-25 08:58:21.442 [error] [network] #37: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:58:27.229 [error] [network] #40: https://open-vsx.org/vscode/gallery/extensionquery - error POST Canceled
+2024-12-25 08:59:34.236 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-25 09:09:07.713 [error] Invalid model for label change, rebuilding

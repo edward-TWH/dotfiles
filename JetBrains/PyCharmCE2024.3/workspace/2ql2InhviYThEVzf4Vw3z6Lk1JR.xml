@@ -1,0 +1,442 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Web Scraper" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="4b1c433e:BranchNodeDescriptor$Root" />
+        <item name="LOCAL" type="7ab31ef7:BranchNodeDescriptor$TopLevelGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="32sneyei9a4c7" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Web Scraper/task/scraper.py">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="595">
+              <caret line="75" column="47" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"scraper.py","foregroundColor":-7607811,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"8be9fd"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "PythonStub": {
+      "usageCount": 1,
+      "lastUsed": 1735286407308
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1735289087138
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1735222772948
+    },
+    "Python": {
+      "usageCount": 63,
+      "lastUsed": 1736490541822
+    },
+    "HTML": {
+      "usageCount": 3,
+      "lastUsed": 1736261872081
+    },
+    "YAML": {
+      "usageCount": 1,
+      "lastUsed": 1736261911208
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 7,
+      "lastUsed": 1736395975197
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/edward/PycharmProjects/Web Scraper/Topics/Operations with dictionary/Student lists/main.py&quot;,
+    &quot;/home/edward/PycharmProjects/Web Scraper/Topics/Operations with dictionary/Dictionary membership/main.py&quot;,
+    &quot;/home/edward/PycharmProjects/Web Scraper/Topics/Operations with dictionary/Upper and lower/main.py&quot;,
+    &quot;/home/edward/PycharmProjects/Web Scraper/Topics/Creating bytes/To_bytes()/main.py&quot;,
+    &quot;/home/edward/PycharmProjects/Web Scraper/Web Scraper/Soup, Sweet Soup/task-info.yaml&quot;,
+    &quot;/home/edward/PycharmProjects/Web Scraper/Web Scraper/task/Is_lightning_striking_the_Arctic_more_than_ever_before.txt&quot;,
+    &quot;/home/edward/PycharmProjects/Web Scraper/Web Scraper/task/scraper.py&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="3" lastUsage="1736261872081" />
+    </language>
+    <language id="Python">
+      <summary usageCount="63" lastUsage="1736490541827" />
+    </language>
+    <language id="PythonStub">
+      <summary usageCount="1" lastUsage="1735286407308" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="7" lastUsage="1736395975197" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1736261911208" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Web Scraper" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Web Scraper}" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Web Scraper" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Web Scraper}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Web Scraper/Web Scraper/task}" type="a27419f0:FrameworkLessonNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Web Scraper" />
+            <item name="Web Scraper" type="a264ea2a:RootNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="Web Scraper" />
+              <item name="dir{file:///home/edward/PycharmProjects/Web Scraper}" type="ed842865:CourseNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Topics" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="Topics" />
+                <item name="dir{file:///home/edward/PycharmProjects/Web Scraper/Topics}" type="76d92c43:SectionNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Web Scraper/task" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="task" />
+                <item name="dir{file:///home/edward/PycharmProjects/Web Scraper/Web Scraper/task}" type="a27419f0:FrameworkLessonNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Web Scraper/task/file.html" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="file.html" />
+                  <item name="file.html" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Web Scraper/task/scraper.py" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="scraper.py" />
+                  <item name="scraper.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Web Scraper/task/source.html" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/html.svg" iconPlugin="com.intellij" isLeaf="true" text="source.html" />
+                  <item name="source.html" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.scraper" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/Web Scraper/task">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Web_Scraper_Soup,_Sweet_Soup - 2025.01.09 at 12h 18m 28s.xml">
+      <configuration name="Web Scraper/Soup, Sweet Soup" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_Soup,_Sweet_Soup - 2025.01.09 at 15h 01m 03s.xml">
+      <configuration name="Web Scraper/Soup, Sweet Soup" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_Soup,_Sweet_Soup - 2025.01.09 at 15h 01m 53s.xml">
+      <configuration name="Web Scraper/Soup, Sweet Soup" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_Wanna_Talk_to_the_Internet - 2024.12.27 at 18h 27m 12s.xml">
+      <configuration name="Web Scraper/Wanna Talk to the Internet" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_What_the_File - 2025.01.06 at 01h 40m 30s.xml">
+      <configuration name="Web Scraper/What the File" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_What_the_File - 2025.01.06 at 01h 41m 08s.xml">
+      <configuration name="Web Scraper/What the File" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_What_the_File - 2025.01.06 at 01h 48m 33s.xml">
+      <configuration name="Web Scraper/What the File" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_What_the_File - 2025.01.06 at 01h 51m 16s.xml">
+      <configuration name="Web Scraper/What the File" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_What_the_File - 2025.01.06 at 01h 52m 18s.xml">
+      <configuration name="Web Scraper/What the File" configurationId="ccruntests" />
+    </history-entry>
+    <history-entry file="Web_Scraper_What_the_File - 2025.01.06 at 01h 56m 43s.xml">
+      <configuration name="Web Scraper/What the File" configurationId="ccruntests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16515747" />
+      <window_info id="Commit" order="1" weight="0.1234252" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32977942" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3305147" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.44816178" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.33034432" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3305147" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32977942" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" show_stripe_button="false" weight="0.3305147" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32977942" />
+      <window_info anchor="bottom" id="Debug" order="10" show_stripe_button="false" weight="0.33173078" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25019655" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25019684" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Task" order="5" visible="true" weight="0.51200783" />
+      <window_info anchor="right" id="Plots" order="6" weight="0.1" />
+      <unified_weights bottom="0.44816178" left="0.16515747" right="0.51200783" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Task</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Find</value>
+      <value>Debug</value>
+      <value>Problems View</value>
+      <value>Python Console</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>AIAssistant</value>
+      <value>Educational.CheckDetails</value>
+      <value>Notifications</value>
+      <value>Python Packages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1017" y="511" width="526" height="477" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1736099536013">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1017" y="511" width="526" height="477" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736099536013" />
+    <state x="1122" y="650" width="315" height="199" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1736090378436">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1122" y="650" width="315" height="199" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736090378436" />
+    <state x="297" y="518" width="1966" height="464" key="#xdebugger.XInspectDialog" timestamp="1736330225838">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="297" y="518" width="1966" height="464" key="#xdebugger.XInspectDialog/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736330225838" />
+    <state width="1278" height="718" key="DebuggerActiveHint" timestamp="1736318931575">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1278" height="718" key="DebuggerActiveHint/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736318931575" />
+    <state x="1064" y="517" width="617" height="456" key="FileChooserDialogImpl" timestamp="1736332226605">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1064" y="517" width="617" height="456" key="FileChooserDialogImpl/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736332226605" />
+    <state x="2987" y="520" width="426" height="460" key="FileChooserDialogImpl/1920.0.2560.1440/0.785.1920.1080@1920.0.2560.1440" timestamp="1735789268687" />
+    <state width="2458" height="406" key="GridCell.Tab.0.bottom" timestamp="1736406063560">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.0.bottom/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state width="2458" height="407" key="GridCell.Tab.0.bottom/0.0.2560.1440/2560.180.1920.1080@2560.180.1920.1080" timestamp="1736101470305" />
+    <state width="2458" height="406" key="GridCell.Tab.0.bottom/1920.0.2560.1440/0.668.1920.1080/4480.124.1920.1080@1920.0.2560.1440" timestamp="1736406063560" />
+    <state width="2458" height="406" key="GridCell.Tab.0.center" timestamp="1736406063560">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.0.center/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.0.center/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state width="2458" height="407" key="GridCell.Tab.0.center/0.0.2560.1440/2560.180.1920.1080@2560.180.1920.1080" timestamp="1736101470305" />
+    <state width="2458" height="406" key="GridCell.Tab.0.center/1920.0.2560.1440/0.668.1920.1080/4480.124.1920.1080@1920.0.2560.1440" timestamp="1736406063560" />
+    <state width="2458" height="406" key="GridCell.Tab.0.left" timestamp="1736406063560">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.0.left/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.0.left/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state width="2458" height="407" key="GridCell.Tab.0.left/0.0.2560.1440/2560.180.1920.1080@2560.180.1920.1080" timestamp="1736101470305" />
+    <state width="2458" height="406" key="GridCell.Tab.0.left/1920.0.2560.1440/0.668.1920.1080/4480.124.1920.1080@1920.0.2560.1440" timestamp="1736406063560" />
+    <state width="2458" height="406" key="GridCell.Tab.0.right" timestamp="1736406063560">
+      <screen x="1920" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.0.right/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.0.right/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state width="2458" height="407" key="GridCell.Tab.0.right/0.0.2560.1440/2560.180.1920.1080@2560.180.1920.1080" timestamp="1736101470305" />
+    <state width="2458" height="406" key="GridCell.Tab.0.right/1920.0.2560.1440/0.668.1920.1080/4480.124.1920.1080@1920.0.2560.1440" timestamp="1736406063560" />
+    <state width="1170" height="406" key="GridCell.Tab.1.bottom" timestamp="1736347688490">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.1.bottom/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.1.bottom/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state width="1170" height="406" key="GridCell.Tab.1.center" timestamp="1736347688490">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.1.center/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.1.center/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state width="1170" height="406" key="GridCell.Tab.1.left" timestamp="1736347688490">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.1.left/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.1.left/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state width="1170" height="406" key="GridCell.Tab.1.right" timestamp="1736347688490">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1178" height="417" key="GridCell.Tab.1.right/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735309034610" />
+    <state width="1170" height="406" key="GridCell.Tab.1.right/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736347688490" />
+    <state x="1283" y="939" width="635" height="139" key="ProcessPopupWindow" timestamp="1736268133374">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1283" y="939" width="635" height="139" key="ProcessPopupWindow/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736268133374" />
+    <state x="287" y="364" width="982" height="702" key="SettingsEditor" timestamp="1736235292118">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="288" y="365" width="982" height="702" key="SettingsEditor/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735297379389" />
+    <state x="287" y="364" key="SettingsEditor/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736235292118" />
+    <state width="1270" height="680" key="XDebugger.FullValuePopup" timestamp="1736324205846">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1270" height="680" key="XDebugger.FullValuePopup/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736324205846" />
+    <state x="1016" y="454" width="526" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1735288993650">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1016" y="454" width="526" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735288993650" />
+    <state x="878" y="448" width="802" height="602" key="conflicts.dialog" timestamp="1736237223278">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="878" y="448" width="802" height="602" key="conflicts.dialog/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736237223278" />
+    <state x="301" y="342" width="706" height="713" key="search.everywhere.popup" timestamp="1736332036880">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="301" y="342" width="706" height="713" key="search.everywhere.popup/0.0.2560.1440/0.0.1920.1080@0.0.2560.1440" timestamp="1735306936314" />
+    <state x="301" y="342" width="706" height="713" key="search.everywhere.popup/0.0.2560.1440/2560.180.1920.1080@0.0.2560.1440" timestamp="1736332036880" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Topics/Operations with dictionary/Student lists/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topics/Operations with dictionary/Dictionary membership/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topics/Operations with dictionary/Upper and lower/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/json/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="72" lean-forward="true" selection-start-line="4" selection-start-column="72" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topics/Creating bytes/Decipher a message/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topics/Creating bytes/To_bytes()/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Scraper/task/source.html" />
+    <entry file="file://$PROJECT_DIR$/Web Scraper/task/file.html" />
+    <entry file="file://$PROJECT_DIR$/Web Scraper/Soup, Sweet Soup/task-info.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Topics/Operations with dictionary/Theory/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Web Scraper/task/Moderna_COVID_vaccine_becomes_second_to_get_US_authorization.txt" />
+    <entry file="file://$PROJECT_DIR$/Web Scraper/task/Is_lightning_striking_the_Arctic_more_than_ever_before.txt" />
+    <entry file="file://$PROJECT_DIR$/Web Scraper/task/Biden’s_pick_to_head_US_environment_agency_heartens_scientists.txt" />
+    <entry file="file://$PROJECT_DIR$/Web Scraper/task/scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="75" column="47" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

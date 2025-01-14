@@ -1,0 +1,71 @@
+2024-12-25 08:51:09.448 [info] Getting Manifest... ms-python.python
+2024-12-25 08:51:11.969 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json","path":"/home/edward/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-16T11:38:33.840Z"}}
+2024-12-25 08:51:12.292 [info] Getting Manifest... ms-python.debugpy
+2024-12-25 08:51:12.840 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json","path":"/home/edward/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-16T11:38:33.840Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-12-25 08:51:18.131 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-25 08:51:18.131 [info] Extension signature verification is not done: ms-python.python
+2024-12-25 08:51:19.747 [info] Extracted extension to file:///home/edward/.vscode-oss/extensions/ms-python.python-2024.22.1-universal: ms-python.python
+2024-12-25 08:51:19.846 [info] Renamed to /home/edward/.vscode-oss/extensions/ms-python.python-2024.22.1-universal
+2024-12-25 08:51:19.948 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-25 08:51:20.116 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-25 08:51:20.117 [info] Extension signature verification is not done: ms-python.debugpy
+2024-12-25 08:51:20.676 [info] Extracted extension to file:///home/edward/.vscode-oss/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2024-12-25 08:51:20.689 [info] Renamed to /home/edward/.vscode-oss/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2024-12-25 08:51:20.707 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json
+2024-12-25 08:51:20.707 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json
+2024-12-25 08:51:20.772 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-25 08:51:24.064 [info] Getting Manifest... ms-python.pylint
+2024-12-25 08:51:24.567 [info] Installing extension: ms-python.pylint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json","path":"/home/edward/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-16T11:38:33.840Z"}}
+2024-12-25 08:51:24.919 [info] Getting Manifest... ms-python.python
+2024-12-25 08:51:27.342 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-25 08:51:27.343 [info] Extension signature verification is not done: ms-python.pylint
+2024-12-25 08:51:27.769 [info] Extracted extension to file:///home/edward/.vscode-oss/extensions/ms-python.pylint-2024.0.0-universal: ms-python.pylint
+2024-12-25 08:51:27.805 [info] Renamed to /home/edward/.vscode-oss/extensions/ms-python.pylint-2024.0.0-universal
+2024-12-25 08:51:27.822 [info] Extension installed successfully: ms-python.pylint vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json
+2024-12-25 08:51:27.887 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-25 08:51:44.130 [info] Getting Manifest... redhat.java
+2024-12-25 08:51:44.647 [info] Installing extension: redhat.java {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json","path":"/home/edward/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-16T11:38:33.840Z"}}
+2024-12-25 08:52:22.777 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-25 08:52:22.777 [info] Extension signature verification is not done: redhat.java
+2024-12-25 08:52:25.586 [info] Extracted extension to file:///home/edward/.vscode-oss/extensions/redhat.java-1.38.0-linux-x64: redhat.java
+2024-12-25 08:52:25.648 [info] Renamed to /home/edward/.vscode-oss/extensions/redhat.java-1.38.0-linux-x64
+2024-12-25 08:52:25.702 [info] Extension installed successfully: redhat.java vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json
+2024-12-25 08:52:25.750 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2024-12-25 08:58:11.511 [info] Getting Manifest... vscodevim.vim
+2024-12-25 08:58:13.861 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json","path":"/home/edward/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-16T11:38:33.840Z"}}
+2024-12-25 08:58:16.110 [error] Could not load vsce-sign module Cannot find package '@vscode/vsce-sign' imported from /usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js
+2024-12-25 08:58:16.111 [info] Extension signature verification is not done: vscodevim.vim
+2024-12-25 08:58:16.180 [info] Extracted extension to file:///home/edward/.vscode-oss/extensions/vscodevim.vim-1.29.0-universal: vscodevim.vim
+2024-12-25 08:58:16.185 [info] Renamed to /home/edward/.vscode-oss/extensions/vscodevim.vim-1.29.0-universal
+2024-12-25 08:58:16.206 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/edward/.vscode-oss/extensions/extensions.json
+2024-12-25 08:58:16.269 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/edward/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

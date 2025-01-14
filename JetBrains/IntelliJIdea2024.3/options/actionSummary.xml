@@ -1,0 +1,136 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="4" l="1736760114338" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="8" l="1736759834597" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="369" l="1736773763465" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1736757683296" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="29" l="1736773454979" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="1" l="1736757152235" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1736756473375" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1736756446329" />
+    </e>
+    <e n="EditorEnter">
+      <i c="105" l="1736773671553" />
+    </e>
+    <e n="EditorEscape">
+      <i c="542" l="1736785040512" />
+    </e>
+    <e n="EditorTab">
+      <i c="4" l="1736757675164" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1736756447049" />
+    </e>
+    <e n="Educational.NextTask">
+      <i c="2" l="1736760135716" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1736756452614" />
+    </e>
+    <e n="ExtractMethod">
+      <i c="3" l="1736757140357" />
+    </e>
+    <e n="HideActiveWindow">
+      <i c="1" l="1736757996682" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="19" l="1736773684795" />
+    </e>
+    <e n="NewClass">
+      <i c="2" l="1736759752834" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1736759744863" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="3" l="1736773764254" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1736756899587" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="1" l="1736759298372" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1736759225759" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1736773760942" />
+    </e>
+    <e n="Run">
+      <i c="27" l="1736760075809" />
+    </e>
+    <e n="SaveAll">
+      <i c="16" l="1736759996355" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="1" l="1736761569590" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1736756460208" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1736756322518" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="2" l="1736759052978" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createCurrentFileWithInlineActions$2">
+      <i c="1" l="1736759299513" />
+    </e>
+    <e n="com.intellij.ide.fileTemplates.actions.CreateFromTemplateAction">
+      <i c="1" l="1736758924638" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
+      <i c="1" l="1735142675115" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="383" l="1736773763463" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1736759760216" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1736761570452" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="4" l="1736785044200" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="5" l="1736758791260" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1736756457915" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1736756320936" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1736756455256" />
+    </e>
+    <e n="com.jetbrains.edu.learning.actions.CheckAction">
+      <i c="9" l="1736760123550" />
+    </e>
+    <e n="com.jetbrains.edu.learning.taskToolWindow.ui.check.CheckDetailsPanel$ShowFullOutputAction">
+      <i c="7" l="1736760097943" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="17" l="1736785041810" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,172 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Hypercar Service Center" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DjangoStructureTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3cpkqncff4wi9">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hypercar Service Center/task/hypercar/hypercar/__init__.py">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"__init__.py","foregroundColor":-4473925,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,127,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 1,
+      "lastUsed": 1736562656302
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory"><![CDATA[{}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1736562656304" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hypercar Service Center" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center}" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Hypercar Service Center" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center/Hypercar Service Center/task}" type="a27419f0:FrameworkLessonNode" />
+            </path>
+            <path>
+              <item name="Hypercar Service Center" type="a264ea2a:RootNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center}" type="ed842865:CourseNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center/Hypercar Service Center/task}" type="a27419f0:FrameworkLessonNode" />
+              <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center/Hypercar Service Center/task/hypercar}" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="Hypercar Service Center" />
+            <item name="Hypercar Service Center" type="a264ea2a:RootNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data isLeaf="false" text="Hypercar Service Center" />
+              <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center}" type="ed842865:CourseNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Hypercar Service Center/task" />
+                  </map>
+                </attributes>
+                <data isLeaf="false" text="task" />
+                <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center/Hypercar Service Center/task}" type="a27419f0:FrameworkLessonNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/Hypercar Service Center/task/hypercar" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="hypercar" />
+                  <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center/Hypercar Service Center/task/hypercar}" type="61faebc3:DirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Hypercar Service Center/task/hypercar/hypercar" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="hypercar" />
+                    <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center/Hypercar Service Center/task/hypercar/hypercar}" type="61faebc3:DirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Hypercar Service Center/task/hypercar/tickets" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="tickets" />
+                    <item name="dir{file:///home/edward/PycharmProjects/Hypercar Service Center/Hypercar Service Center/task/hypercar/tickets}" type="61faebc3:DirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Hypercar Service Center/task/hypercar/db.sqlite3" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="db.sqlite3" />
+                    <item name="db.sqlite3" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/Hypercar Service Center/task/hypercar/manage.py" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="manage.py" />
+                    <item name="manage.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2539000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5003876" visible="true" weight="0.25019684" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Django.Structure" order="2" sideWeight="0.4996124" side_tool="true" visible="true" weight="0.25019684" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Task" order="5" visible="true" weight="0.16279528" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights left="0.25019684" right="0.16279528" />
+    </layoutV2>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Hypercar Service Center/task/hypercar/hypercar/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

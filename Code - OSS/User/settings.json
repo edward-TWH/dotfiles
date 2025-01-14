@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "editor.fontFamily": "'FantasqueSansM Nerd Font', 'Regular'",
+    "workbench.settings.applyToAllProfiles": [
+        "editor.fontFamily"
+    ]
+}

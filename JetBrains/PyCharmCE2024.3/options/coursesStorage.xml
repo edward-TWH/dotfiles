@@ -1,0 +1,17 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="description" value="&lt;p&gt;You will create a function that takes a website address and a number of webpages as input arguments and then goes all over the website saving every news article on the page to a separate .txt file on your computer.&lt;/p&gt;&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org/projects/145?utm_source=ide&amp;utm_medium=ide&amp;utm_campaign=ide&amp;utm_content=project-card&quot;&gt;https://hyperskill.org/projects/145&lt;/a&gt;" />
+        <option name="id" value="145" />
+        <option name="location" value="$USER_HOME$/PycharmProjects/Web Scraper" />
+        <option name="marketplace" value="false" />
+        <option name="name" value="Web Scraper" />
+        <option name="tasksSolved" value="5" />
+        <option name="tasksTotal" value="5" />
+        <option name="type" value="Hyperskill" />
+        <option name="programmingLanguageId" value="Python" />
+      </course>
+    </courses>
+  </component>
+</application>
